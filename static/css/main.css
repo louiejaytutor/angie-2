@@ -55,6 +55,7 @@ body {
     font-weight: bold;
     top: 0;
     text-align: center;
+    margin: 0 10px;
 }
 
 .background {
@@ -256,4 +257,5 @@ body {
     opacity: 0;
     transition: all 2s ease;
     transform: scale(1) translateX(150px) translateY(-300px);
+
 }
